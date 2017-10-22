@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Oct 22 16:17:10 IRST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-015f-441f-6b20-000011d964f0 
+on database directory D:\eclipse\eclipse-jee-oxygen-1-win32-x86_64_plugin\ws\sample-parent\sample-webapp\target\databases\derby  with class loader sun.misc.Launcher$AppClassLoader@64b2933f 
+Loaded from file:/C:/Users/akasraei/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/3.1.2.2/glassfish-embedded-all-3.1.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=D:\eclipse\eclipse-jee-oxygen-1-win32-x86_64_plugin\ws\sample-parent\sample-webapp
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
